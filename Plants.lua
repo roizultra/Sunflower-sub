@@ -1,5 +1,5 @@
 return {
-    Evoplants = { 
+    Evo = { 
         "Evo Mushroom III",
         "Evo Mushroom II",
         "Evo Mushroom I",
