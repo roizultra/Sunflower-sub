@@ -1,6 +1,6 @@
 return {
     Shop = { 
-	  "Common Egg",
+	"Common Egg",
     "Uncommon Egg",
     "Rare Egg",
     "Legendary Egg",
