@@ -27,6 +27,7 @@ return {
     "Giant Pinecone",
     "Romanesco",
     "Crimson Thorn",
+    "Great Pumpkin Seed",
     },
     
     Battlepass = { 
